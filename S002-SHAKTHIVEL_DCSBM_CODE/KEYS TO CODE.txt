@@ -1,0 +1,11 @@
+KEYS TO CODE:
+
+shakCode 	- Initial version of code in one script with explanation
+
+shakCodev3 	- Optimised code without final week's minor changes
+
+shakCodev4 	- Same code as v3 with zz vs f plot from final week's minor changes
+
+shakV5		- Final code with all three plots discussed in the final meeting
+
+shakV6		- Final code with all three plots with while loop instead of iter's'for' loop 
